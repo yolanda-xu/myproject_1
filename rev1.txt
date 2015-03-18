@@ -4,5 +4,7 @@
 
 'define B 1
 
+'define C "RM"
+
 
 
