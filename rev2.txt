@@ -4,4 +4,6 @@ proc a1;
 
 function button (vara, varb);
 
+function bubble(varc);
+
 
