@@ -1,5 +1,7 @@
 # initial version for function2
 
-procedue a1;
+proc a1;
+
+function button (vara, varb);
 
 
