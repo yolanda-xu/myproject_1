@@ -1,4 +1,6 @@
 # initial version for function1
 
+`define A 0
+
 
 
